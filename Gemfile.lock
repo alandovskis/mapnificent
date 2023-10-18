@@ -265,6 +265,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
 
 BUNDLED WITH
    2.4.10
