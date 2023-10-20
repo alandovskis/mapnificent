@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.1",
-    "leaflet": "~0.7.3",
+    "leaflet": "~1.9.4",
     "bootstrap": "~3.2.0",
     "protobuf": "~6.8.6",
     "bytebuffer": "~3.5.5"
